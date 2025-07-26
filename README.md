@@ -29,6 +29,7 @@ ___
 ___
 
 ## Project Structure
+```
 src/
 ├── controller  # REST Controllers
 ├── dto         # Data Transfer Objects
@@ -37,6 +38,7 @@ src/
 ├── repository  # JpaRepositories
 ├── service     # Business logic layer
 └── OnlineGroceryApplication.java
+```
 
 ___
 
